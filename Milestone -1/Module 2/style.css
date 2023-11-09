@@ -1,0 +1,17 @@
+.blog{
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 20px;
+    /* border-left: black 30px solid; */
+    border-radius: 10px;
+    width: 60%;
+    text-align: justify;
+    height: auto;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px;
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+body{
+    background-image: url(../../images/img\ \(3\).jpg);
+    background-size: cover;
+}
